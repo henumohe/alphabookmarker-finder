@@ -1,0 +1,20 @@
+{
+  "name": "comic-search",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokeran/comic-search.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokeran/comic-search/issues"
+  },
+  "homepage": "https://github.com/pokeran/comic-search#readme",
+  "dependencies": {
+    "cheerio-httpcli": "^0.3.2",
+    "json5": "^0.4.0"
+  }
+}
